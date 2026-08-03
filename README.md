@@ -5,7 +5,7 @@ Obstacle-Avoidance Robot
 Link to the video: https://www.youtube.com/watch?v=QEIl2Nxot5M
 
 # What the project is and what it does:
-KOADAI is an obstacle-Avoidance Robot. It will move forward until it detects an object, then the servo motor will sweep the sensors left and right to find the best path (greatest distance). The robot will then move in that direction.
+KOADAI is an obstacle-Avoidance Robot. It will move forward until it detects an object, then the servo motor will sweep the sensors left and right to find the best path (direction with the greatest distance). The robot will then turn to move in that direction.
 
 # How to set it up and run it:
 If you are building the same robot I am, I have links to where I have sourced the materials in the Bills of Materials (BOM) page

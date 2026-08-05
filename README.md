@@ -2,13 +2,13 @@
 
 ## An Arduino Obstacle-Avoidance Robot
 
+Screenshots or photos showing what it looks like:
+# To Do
+
 ### What the project is and what it does:
  * Move forward until the ultrasonic sensor detects an object
  * Servo motor will sweep the sensor left and right to find the best path (direction with the greatest distance)
  * The robot will then turn to move in that direction
-
-For the sensor, I took inspiration from Russel Electronics on YouTube.
-Link to the video: https://www.youtube.com/watch?v=QEIl2Nxot5M
 
 ### How to set it up and run it:
  * Setup Chassis: https://www.youtube.com/watch?v=t6nfFJCMNwY
@@ -43,5 +43,6 @@ Breadboard Jumper Wires 65PCS
 Resistors 120PCS
 LED 25PCS
 
-Screenshots or photos showing what it looks like:
-# To Do
+For the sensor, I took inspiration from Russel Electronics on YouTube.
+
+Link to the video: https://www.youtube.com/watch?v=QEIl2Nxot5M

@@ -2,10 +2,10 @@
 
 ## An Arduino Obstacle-Avoidance Robot
 
-### Screenshots or photos showing what it looks like:
+### Photo showing what it looks like:
 Coming Soon
 
-### What the project is and what it does:
+### What it does:
  * Moves forward until the ultrasonic sensor detects an object
  * Servo motor will sweep the sensor left and right to find the best path (direction with the greatest distance)
  * The robot will then turn to move in that direction

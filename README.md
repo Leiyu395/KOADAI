@@ -1,19 +1,19 @@
 # KOADAI
-Obstacle-Avoidance Robot
 
-# I took inspiration from Russel Electronics on YouTube
+## An Arduino Obstacle-Avoidance Robot
+
+### What the project is and what it does:
+ * Move forward until the ultrasonic sensor detects an object
+ * Servo motor will sweep the sensor left and right to find the best path (direction with the greatest distance)
+ * The robot will then turn to move in that direction
+For the sensor, I took inspiration from Russel Electronics on YouTube.
 Link to the video: https://www.youtube.com/watch?v=QEIl2Nxot5M
 
-# What the project is and what it does:
-KOADAI is an obstacle-Avoidance Robot. It will move forward until it detects an object, then the servo motor will sweep the sensors left and right to find the best path (direction with the greatest distance). The robot will then turn to move in that direction.
+### How to set it up and run it:
+ * Setup Chassis: https://www.youtube.com/watch?v=t6nfFJCMNwY
+ * Circuit Schematic: # insert circuit schematic here
+ * Upload the code onto the Arduino board using the Arduino IDE
 
-# How to set it up and run it:
-If you are building the same robot I am, I have links to where I have sourced the materials in the Bills of Materials (BOM) page
-Setup Chassis: https://www.youtube.com/watch?v=t6nfFJCMNwY
-Circuit Schematic: # insert circuit schematic here
-Upload the code onto the Arduino board using the Arduino IDE
-
-# I have already sourced the materials I need, I do not require funding. This is a page is for others to quickly source the correct components. They are welcome to bargain hunt.
 # Arduino Kit
 £45.00
 https://www.amazon.ca/ELEGOO-Compatible-Components-24-Lesson-Education/dp/B01D8KOZF4/ref=ast_sto_dp_puis

@@ -6,34 +6,18 @@
 Coming Soon
 
 ### What the project is and what it does:
- * Move forward until the ultrasonic sensor detects an object
+ * Moves forward until the ultrasonic sensor detects an object
  * Servo motor will sweep the sensor left and right to find the best path (direction with the greatest distance)
  * The robot will then turn to move in that direction
 
 ### How to set it up and run it:
  * Setup Chassis: https://www.youtube.com/watch?v=t6nfFJCMNwY
- * Circuit Schematic: # insert circuit schematic here
+ * Circuit Schematic: Coming Soon
  * Upload the code onto the Arduino board using the Arduino IDE
 
-# What components are needed:
-# Arduino Kit
-£45.00
-https://www.amazon.ca/ELEGOO-Compatible-Components-24-Lesson-Education/dp/B01D8KOZF4/ref=ast_sto_dp_puis
-# Chassis Kit
-£19.20
-https://thepihut.com/products/robot-chassis-kit-ms
-# L298N Motor Stepper Driver
-£7.00 (for two)
-https://thepihut.com/products/l298n-motor-stepper-driver
-# Total Cost
-£71.20
-
-4x Mecanum Wheels
-1x Mobile robot mounting plate (large size)
-4x TT Motor
-4x TT motor bracket
-1x UNO R3 Controller Board 1PC
-2x L298N Motor / Stepper Driver
+### What components are needed:
+| Item | | Cost | | Link | |Contains|
+| Arduino Kit | | £45.00 | | https://www.amazon.ca/ELEGOO-Compatible-Components-24-Lesson-Education/dp/B01D8KOZF4/ref=ast_sto_dp_puis) | |1x UNO R3 Controller Board 1PC
 1x Servo Motor SG90 1PC
 1x Active Buzzer 1PC
 1x Breadboard
@@ -41,7 +25,14 @@ https://thepihut.com/products/l298n-motor-stepper-driver
 Female-to-Male Dupont Wires
 Breadboard Jumper Wires 65PCS
 Resistors 120PCS
-LED 25PCS
+LED 25PCS|
+| Chassis Kit | | £19.20| | https://thepihut.com/products/robot-chassis-kit-ms | | * 4x Mecanum Wheels * 1x Mobile robot mounting plate (large size) * 4x TT Motor * 4x TT motor bracket|
+| L298N Motor Stepper Driver | | £7.00 (for two) | | [Link](https://thepihut.com/products/l298n-motor-stepper-driver) | | L298N Motor / Stepper Driver |
+
+#### Total Cost
+£71.20
+
+### Extra Information
 
 For the sensor, I took inspiration from Russel Electronics on YouTube.
 

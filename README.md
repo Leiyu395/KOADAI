@@ -2,8 +2,8 @@
 
 ## An Arduino Obstacle-Avoidance Robot
 
-Screenshots or photos showing what it looks like:
-# To Do
+### Screenshots or photos showing what it looks like:
+Coming Soon
 
 ### What the project is and what it does:
  * Move forward until the ultrasonic sensor detects an object
@@ -15,6 +15,7 @@ Screenshots or photos showing what it looks like:
  * Circuit Schematic: # insert circuit schematic here
  * Upload the code onto the Arduino board using the Arduino IDE
 
+# What components are needed:
 # Arduino Kit
 £45.00
 https://www.amazon.ca/ELEGOO-Compatible-Components-24-Lesson-Education/dp/B01D8KOZF4/ref=ast_sto_dp_puis
@@ -27,7 +28,6 @@ https://thepihut.com/products/l298n-motor-stepper-driver
 # Total Cost
 £71.20
 
-# What components are needed:
 4x Mecanum Wheels
 1x Mobile robot mounting plate (large size)
 4x TT Motor

@@ -6,6 +6,7 @@
  * Move forward until the ultrasonic sensor detects an object
  * Servo motor will sweep the sensor left and right to find the best path (direction with the greatest distance)
  * The robot will then turn to move in that direction
+
 For the sensor, I took inspiration from Russel Electronics on YouTube.
 Link to the video: https://www.youtube.com/watch?v=QEIl2Nxot5M
 

@@ -12,7 +12,8 @@ Coming Soon
 
 ### How to set it up and run it:
  * Setup Chassis: https://www.youtube.com/watch?v=t6nfFJCMNwY
- * Circuit Schematic: Coming Soon
+ * Circuit Schematic: <img width="1365" height="1707" alt="KOADAI-layout" src="https://github.com/user-attachments/assets/52e7529e-d147-442b-886c-52a358d6e6fd" />
+
  * Upload the code onto the Arduino board using the Arduino IDE
 
 ### What components are needed:

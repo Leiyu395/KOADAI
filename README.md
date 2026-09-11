@@ -2,8 +2,8 @@
 
 ## An Arduino Obstacle-Avoidance Robot
 
-### Photo showing what it looks like:
-Coming Soon
+### Photo:
+<img width="3986" height="3386" alt="IMG_2427 (2)" src="https://github.com/user-attachments/assets/9f8a96c0-0d1b-4198-aa22-8cd05d6f1b81" />
 
 ### What it does:
  * Moves forward until the ultrasonic sensor detects an object
